@@ -1,3 +1,8 @@
+# ArduinoGotchi ported for the ESPboy
+
+www.espboy.com
+
+
 # ArduinoGotchi - A real Tamagotchi emulator for Arduino UNO
 
 ## Synopsis
